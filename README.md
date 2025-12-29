@@ -1,6 +1,5 @@
 
-<img width="1024" height="1024" alt="WhiteLight_Favicon" src="https://github.com/user-attachments/assets/8c2fa0ef-a1be-4222-9a2a-e8d7725eb034" />
-
+<img width="1024" height="1024" alt="WhiteLight_Favicon" src="https://github.com/user-attachments/assets/7264b109-d4be-45e5-87f3-1c7b15ba1341" />
 
 
 # Getting Started with Create React App
