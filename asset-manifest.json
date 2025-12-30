@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/WhiteLight/static/css/main.0eda2dfe.css",
+    "main.css": "/WhiteLight/static/css/main.00066add.css",
     "main.js": "/WhiteLight/static/js/main.5ad4ad0b.js",
     "index.html": "/WhiteLight/index.html",
-    "main.0eda2dfe.css.map": "/WhiteLight/static/css/main.0eda2dfe.css.map",
+    "main.00066add.css.map": "/WhiteLight/static/css/main.00066add.css.map",
     "main.5ad4ad0b.js.map": "/WhiteLight/static/js/main.5ad4ad0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eda2dfe.css",
+    "static/css/main.00066add.css",
     "static/js/main.5ad4ad0b.js"
   ]
 }
